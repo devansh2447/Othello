@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Flip
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Flip\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ board\ colour
+comment1.target=int[]\ getArray(int,\ int,\ Board,\ java.lang.String)
+comment2.params=x\ y\ board\ colour
+comment2.target=Board\ flip(int,\ int,\ Board,\ java.lang.String)
+comment3.params=convert
+comment3.target=java.lang.String\ arrayAsString(int[])
+comment4.params=check\ board
+comment4.target=Board\ flip(Piece,\ Board)
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Piece\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ colour
+comment1.target=Piece(int,\ int,\ java.lang.String)
+comment2.params=x\ y\ colour\ controls
+comment2.target=Piece(int,\ int,\ java.lang.String,\ int[])
+comment3.params=toUpdate\ reference
+comment3.target=Piece\ updateControls(Piece,\ Board)
+comment4.params=x\ y
+comment4.target=int\ getPosition(int,\ int)
+comment5.params=position
+comment5.target=int\ getY(int)
+comment6.params=position
+comment6.target=int\ getX(int)
+comment7.params=toInvert
+comment7.target=Piece\ invert(Piece)
+numComments=8

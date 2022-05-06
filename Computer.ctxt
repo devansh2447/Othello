@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=check\ colour
+comment1.target=int\ getBestMove(Board,\ java.lang.String)
+comment10.params=toClone
+comment10.target=Piece[]\ clonePieceArray(Piece[])
+comment2.params=chooseFrom\ empty
+comment2.target=int\ choose(int[],\ int)
+comment3.params=check
+comment3.target=boolean\ isCorner(int)
+comment4.params=check
+comment4.target=boolean\ isEdge(int)
+comment5.params=toClear\ end
+comment5.target=int[]\ clear(int[],\ int)
+comment6.params=check\ reference
+comment6.target=int\ getScore(Piece,\ Board)
+comment7.params=toCheck
+comment7.target=boolean\ isEmpty(int[])
+comment8.params=check
+comment8.target=int\ getHighestFilled(int[])
+comment9.params=reference\ colour
+comment9.target=int\ getHighestControls(Board,\ java.lang.String)
+numComments=11

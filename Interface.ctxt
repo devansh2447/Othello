@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Interface
+comment1.params=current\ toAdd
+comment1.target=Board\ getOutput(Board,\ Piece)
+comment2.params=colour\ current\ isFirstTime\ filledSquares
+comment2.target=void\ getInput(java.lang.String,\ Board,\ boolean,\ int)
+comment3.params=board
+comment3.target=void\ over(Board)
+comment4.params=check
+comment4.target=void\ winner(Board)
+comment5.params=toClone
+comment5.target=Piece[]\ clonePieceArray(Piece[])
+comment6.params=board
+comment6.target=void\ exit(Board)
+comment7.params=log
+comment7.target=void\ init(boolean)
+numComments=8
