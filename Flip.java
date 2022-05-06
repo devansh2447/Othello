@@ -1,10 +1,5 @@
+//Flips squares controlled by a certain piece, contains methods to flip the pieces and to get the array of positions controlled by a piece.
 
-/**
- * Write a description of class Flip here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Flip
 {
     public static int[] getArray(int x, int y, Board board, String colour){

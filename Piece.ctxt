@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Piece
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Piece\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=Serves\ for\ the\ creation\ of\ the\ Piece\ object,\ contains\ methods\ to\ update\ the\ list\ of\ squares\ which\ a\ Piece\ controls,\ to\ get\ the\ position\ in\ the\ Piece\ array\ of\ a\ board\ object\ of\ a\ certain\ piece\ and\ vice-versa\r\nand\ to\ flip\ a\ Piece
 comment1.params=x\ y\ colour
 comment1.target=Piece(int,\ int,\ java.lang.String)
 comment2.params=x\ y\ colour\ controls

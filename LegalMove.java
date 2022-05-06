@@ -1,10 +1,5 @@
+//Determines if a move is legal or not, and if a certain player has any legal moves left. Contains methods to do the same.
 
-/**
- * Write a description of class LegalMove here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class LegalMove
 {
     public static boolean isLegalMovePossible(Board reference, String colour){

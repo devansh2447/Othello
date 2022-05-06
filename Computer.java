@@ -1,10 +1,5 @@
+//Helps the computer calculate the best move, contains methods to determine the best move and the "score" of a certain square.
 
-/**
- * Write a description of class Computer here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.Random;
 public class Computer
 {

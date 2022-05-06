@@ -1,13 +1,8 @@
 import java.io.*;
-import java.time.format.DateTimeFormatter;  
-import java.time.LocalDateTime;    
+//Logs game to disk, includes methods to get the log file path (both initial log and backup log), to process a file, to write to a file, and to finalise a log by putting it into an easier to read format.
 
-/**
- * Write a description of class Logger here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+import java.time.format.DateTimeFormatter;  
+import java.time.LocalDateTime;
 public class Logger
 {
     public static String processFile (String filename)

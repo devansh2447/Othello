@@ -1,15 +1,11 @@
+/*Serves for the creation of the Piece object, contains methods to update the list of squares which a Piece controls, to get the position in the Piece array of a board object of a certain piece and vice-versa
+and to flip a Piece */
 
-/**
- * Write a description of class Piece here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Piece
 {
     int x;
     int y; //coordinates start from top left
-    int[] controls;
+    int[] controls; //squares controlled by a piece
     String colour;
     
     public Piece(int x, int y, String colour){

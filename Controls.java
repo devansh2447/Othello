@@ -1,10 +1,5 @@
+//Helps find out which piece controls which other squares, contains method to get all the squares in a certain direction controlled by a certain piece
 
-/**
- * Write a description of class Controls here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Controls
 {
     public static int[] getFile(int x, int y, int modX, int modY, int[] forReturn, Board board, String colour){

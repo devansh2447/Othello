@@ -1,10 +1,5 @@
+//Serves for the creation of the Board object, contains methods to add pieces, to check what is the colour of a certain square, and to print a board
 
-/**
- * Write a description of class Board here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class Board
 {
     Piece[] pieces;

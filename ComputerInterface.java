@@ -1,12 +1,7 @@
+//Gets input, prints output and determines the winner for user versus computer gameplay. Contains methods to do the same.
+
 import java.util.Scanner;
 import java.io.FileWriter;
-
-/**
- * Write a description of class ComputerInterface here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class ComputerInterface
 {
     public static Board getOutput(Board current, Piece toAdd) throws java.io.IOException {

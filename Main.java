@@ -1,10 +1,5 @@
+//Execution begins in this class, contains initial launcher method and method for starting a new game after an old one has finished.
 
-/**
- * Write a description of class Main here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.Scanner;
 public class Main
 {

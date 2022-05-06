@@ -1,13 +1,7 @@
+//Gets input, prints output and determines the winner for user versus user gameplay. Contains methods to do the same.
 
-/**
- * Write a description of class Interface here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.Scanner;
 import java.io.FileWriter;
-
 public class Interface
 {
     public static Board getOutput(Board current, Piece toAdd) throws java.io.IOException {
