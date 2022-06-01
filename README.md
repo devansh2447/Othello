@@ -1,7 +1,9 @@
 # Othello
 Play the popular boardgame Othello, with options to log the game and play against the computer.
 
-This software provides basic gameplay for Othello within Java.
+I made this as a summer code project along with my [chord finder](https://github.com/devansh2447/Chord-Finder) program.
+
+This program provides basic gameplay for Othello within Java.
 
 User versus user gameplay:
 ![othello-screenshot](https://user-images.githubusercontent.com/98523837/166094760-cc245ae7-6654-49b0-b79b-280be0fc8d9d.jpg)
